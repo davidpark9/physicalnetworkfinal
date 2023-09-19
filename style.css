@@ -32,9 +32,9 @@ body {
 h4 {
   color: white;
   font-size: 14px;
+  align-items: center;
   justify-content: center;
   position: relative;
-  align-items: center;
   display: flex;
   bottom: 30px;
  }
